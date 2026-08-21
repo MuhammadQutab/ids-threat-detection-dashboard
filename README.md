@@ -52,10 +52,10 @@ sample_test_data_100.csv
 .gitignore 
 
 
-## Limitations 
+Limitations 
 
 This is an academic prototype, not a commercial intrusion detection system. The current version uses prepared CSV files rather than live packet capture. Geo-aware enrichment is simulated/contextual and should not be interpreted as confirmed attacker location. Additional attack categories such as Web Attack and Infiltration may be included in future work.
 
-## Academic Context 
+Academic Context 
 
 This project was developed as part of an MSc research project exploring machine learning-based intrusion detection, model comparison, dashboard deployment, and practical alert interpretation.
